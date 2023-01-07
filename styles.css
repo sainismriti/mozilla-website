@@ -1,0 +1,13 @@
+html {
+	background-color: white;
+}
+
+body {
+	background: white;
+	width: 70%;
+	margin: 10px auto;
+	padding: 10px;
+}
+class {
+	color: red;
+}
